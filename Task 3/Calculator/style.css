@@ -1,0 +1,42 @@
+
+body{
+    background-image: url(https://images7.alphacoders.com/374/374296.jpg);
+    width: 90%;
+    height: 510px;
+    margin-top: 120px;
+    margin-bottom: 0px;
+    text-align: center;
+    margin-left: 60px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(4, 4, 4);
+}
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 32px;
+    margin: 5px;
+    background-color: white;
+    border-radius: 15px;
+    border-color: black;
+}
+
+
+.output{
+    width: 340px;
+    height: 70px;
+    background-color: #b6fec8;
+    text-align: right;
+}
+.btn:hover{
+    background-color: rgb(237, 248, 86);
+    cursor: pointer;
+}
+.cancel:hover{
+    background-color: rgb(241, 84, 84);
+    cursor: pointer;
+}
